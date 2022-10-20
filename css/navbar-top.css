@@ -1,0 +1,11 @@
+/* Show it's not fixed to the top */
+body {
+  min-height: 75rem;
+}
+
+#login {
+  color: white; text-decoration: none; font-size: 16px; padding-top: 8px;
+}
+
+#toppage {
+}
